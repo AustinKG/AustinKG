@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AustinKG
 - 👀 I’m interested in everything tech 
 - 🌱 I’m currently learning web development and IT
-- 💞️ I’m looking to collaborate on making money
+- 💞️ I’m looking to collaborate on making interesting websites
 - 📫 How to reach me ...
 
 <!---
